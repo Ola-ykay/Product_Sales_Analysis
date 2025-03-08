@@ -1,6 +1,8 @@
-## Product Sales Analysis
+# Product Sales Analysis
 
- This project analyzes product sales data across different states in Canada by consolidating multiple data sources into a single dataset using INDEX MATCH in Excel. A dynamic dashboard was created to visualize key insights including total revenue by state, month, product category, and customer segment, average revenue by manufacturer and product category, average revenue by product category and product segment. The dashboard also includes slicers for easy filtering and data exploration.
+## Project Overview
+
+This project analyzes product sales data across different states in Canada by consolidating multiple data sources into a single dataset using INDEX MATCH in Excel. A dynamic dashboard was created to visualize key insights including total revenue by state, month, product category, and customer segment, average revenue by manufacturer and product category, average revenue by product category and product segment. The dashboard also includes slicers for easy filtering and data exploration.
 
 ### Dataset Used
 The analysis is based on three key datasets:
@@ -8,6 +10,9 @@ The analysis is based on three key datasets:
 2. Location Table - Maps sales transactions to specific Canadian states.
 3. Manufacturer Table - Provides details about the manufacturers of each product.
 4. Product Table
+
+### Tools
+Excel
 
 ### Data Processing
 - Used INDEX MATCH in Excel to consolidate the three tables into a single dataset.
